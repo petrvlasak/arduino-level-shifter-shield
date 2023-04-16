@@ -381,6 +381,7 @@
         "nets": [
           "+3V3",
           "+5V",
+          "/IOREF",
           "/VCC1",
           "/VCC1_EXT",
           "/VCC1_REG",
@@ -390,6 +391,8 @@
           "/VCC3",
           "/VCC3_EXT",
           "/VCC3_REG",
+          "/VIN",
+          "/VREG_IN",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
